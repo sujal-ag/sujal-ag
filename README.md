@@ -66,9 +66,9 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalAg&show_icons=true&theme=radical" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalAg&theme=radical" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalAg&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujal-ag&show_icons=true&theme=radical" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-ag&theme=radical" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-ag&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -77,8 +77,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujal-ag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/SujalAg" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:sujalagarwal2221@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/sujal-ag" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:sujalagarwal0987@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
