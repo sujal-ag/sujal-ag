@@ -66,10 +66,17 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujal-ag&show_icons=true&theme=radical" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal-ag&theme=radical" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-ag&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sujal-ag&show_icons=true&theme=tokyonight&hide_border=true" />
+  &nbsp;&nbsp;
+  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal-ag&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal-ag&theme=tokyonight" />
+</p>
+
+
 
 ---
 
