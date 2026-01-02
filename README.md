@@ -11,7 +11,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-🔭 I'm a CSE undergrad at VIT Vellore (2023–2027) with a CGPA of 9.56  <br>
+🔭 I'm a CSE undergrad at VIT Vellore (2023–2027) with a CGPA of 9.44  <br>
 💼 Software Developer Intern at Prepisely <br>
 👨‍🚀 CS Subsystem Member @ Team Sammard (VIT Rocketry Team) <br>
 🌱 Passionate about full-stack dev & solving real-world problems
