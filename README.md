@@ -58,7 +58,7 @@
 <p align="center">
   📍 Vellore Institute of Technology (VIT), Vellore <br>
   B.Tech in Computer Science and Engineering <br>
-  📅 2023 – 2027 | 📈 CGPA: <b>9.56</b>
+  📅 2023 – 2027 | 📈 CGPA: <b>9.44</b>
 </p>
 
 ---
