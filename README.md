@@ -41,7 +41,7 @@
 
 <p align="center">
   <b>💻 Intern @ Prepisely</b> <br>
-  <i>May 2025 – Present</i> <br>
+  <i>May 2025 – November 2025</i> <br>
   🔹 Full-stack development for scalable ed-tech products
 </p>
 
