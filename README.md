@@ -22,7 +22,7 @@
 
 | | |
 |:---|:---|
-| **CSE @ VIT Vellore** (2023–2027) · CGPA **9.44** | **Intern** @ Prepisely |
+| **CSE @ VIT Vellore** (2023–2027) · CGPA **9.41** | **Intern** @ Prepisely |
 | **CS Subsystem** @ Team Sammard (Rocketry) | **Learning** Full stack & DevOps |
 
 </div>
