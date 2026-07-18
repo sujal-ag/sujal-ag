@@ -67,7 +67,7 @@
 ## 🎓 Education
 
 <p align="center">
-  <b>Vellore Institute of Technology, Vellore</b> &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA: <b>9.44 / 10</b>
+  <b>Vellore Institute of Technology, Vellore</b> &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; 2023–2027 &nbsp;·&nbsp; CGPA: <b>9.41 / 10</b>
 </p>
 
 ---
