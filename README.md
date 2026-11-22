@@ -61,7 +61,7 @@
 |:---|:---|:---:|
 | Software Engineering Intern | Microsoft (MS Ads / Xandr) | May '26 – Jul '26 |
 | CS Subsystem Member | Team Sammard, VIT | May '25 – Present |
-| Software Developer Intern | Prepisely | May '25 – Nov '25 |
+| Software Developer Intern | Prepisely | May '25 – Jul '25 |
 
 </div>
 
